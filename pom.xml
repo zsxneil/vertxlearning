@@ -8,6 +8,7 @@
     <modules>
         <module>jdbc</module>
         <module>verticle</module>
+      <module>tx</module>
     </modules>
     <packaging>pom</packaging>
 
