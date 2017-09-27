@@ -9,6 +9,7 @@
         <module>jdbc</module>
         <module>verticle</module>
       <module>tx</module>
+        <module>mail</module>
     </modules>
     <packaging>pom</packaging>
 
