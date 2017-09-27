@@ -10,6 +10,7 @@
         <module>verticle</module>
       <module>tx</module>
         <module>mail</module>
+      <module>upload</module>
     </modules>
     <packaging>pom</packaging>
 
